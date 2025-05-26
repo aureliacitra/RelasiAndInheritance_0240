@@ -7,4 +7,10 @@ class manusia{
  tring name;
 jantung varJantung;
 
+ manusia(string pName): name(pName) 
+    {
+      cout << name << "Hidup\n";
+     }
+
+
 }

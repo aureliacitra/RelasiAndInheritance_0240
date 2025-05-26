@@ -17,4 +17,7 @@ int main()
     varIbu->tambahAnak(varAnak2);
     varIbu2->tambahAnak(varAnak3);
     varIbu2->tambahAnak(varAnak4);
+
+    varIbu->cetakanak();
+    varIbu->cetakanak();
 }

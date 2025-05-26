@@ -4,7 +4,7 @@ using namespace std;
 
 class manusia{
  public :
- tring name;
+string name;
 jantung varJantung;
 
  manusia(string pName): name(pName) 

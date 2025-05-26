@@ -24,3 +24,5 @@ void ibu::tambahanak(anak *pAnak)
 {
     daftar_anak.push_back(pAnak);
 }
+
+void ibu::cetakanak()

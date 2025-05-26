@@ -17,3 +17,4 @@ jantung varJantung;
         cout << name << "mati\n";
      }
 };
+#endif

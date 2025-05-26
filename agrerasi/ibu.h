@@ -11,4 +11,5 @@ class ibu
     {
         cout << "ibu \" << nama << "\" ada\n";
     }
+    ~ibu()
 }

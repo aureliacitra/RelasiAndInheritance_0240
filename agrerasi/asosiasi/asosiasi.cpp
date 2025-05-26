@@ -11,4 +11,5 @@ public:
     pasien(string pNama) : nama(pNama) {
         cout << "Pasien \"" << nama << "\" ada\n";
     }
-};
+
+~pasien() 

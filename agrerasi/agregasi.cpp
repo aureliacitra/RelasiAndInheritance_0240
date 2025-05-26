@@ -16,14 +16,16 @@ int main()
     varIbu->tambahAnak(varAnak1);
     varIbu->tambahAnak(varAnak2);
     varIbu2->tambahAnak(varAnak3);
-    varIbu2->tambahAnak(varAnak4);
+    varIbu2->tambahAnak(varAnak1);
 
     varIbu->cetakanak();
-    varIbu->cetakanak();
+    varIbu2->cetakanak();
 
     delete varIbu;
     delete varIbu2;
     delete varAnak1;
     delete varAnak2;
     delete varAnak3;
+
+    return 0;
 }

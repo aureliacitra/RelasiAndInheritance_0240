@@ -11,6 +11,9 @@ jantung varJantung;
     {
       cout << name << "Hidup\n";
      }
-
-
-}
+   
+    ~manusia()
+     {
+        cout << name << "mati\n";
+     }
+};

@@ -17,4 +17,6 @@ public:
     }
 
     void tambahDokter(dokter*);
- 
+    void cetakDokter();
+};
+

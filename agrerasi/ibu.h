@@ -26,3 +26,13 @@ void ibu::tambahanak(anak *pAnak)
 }
 
 void ibu::cetakanak()
+{
+    cout << "Daftar anak dari ibu \" << this->nama << "\":\n";
+
+    for (auto &a : daftar_anak)
+    {
+        cout << a->nama << "\n";
+    }
+    cout << endl;
+}
+#endif

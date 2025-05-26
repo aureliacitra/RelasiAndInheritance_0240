@@ -4,5 +4,7 @@ using namespace std;
 
 class manusia{
  public :
+ tring name;
+jantung varJantung;
 
 }

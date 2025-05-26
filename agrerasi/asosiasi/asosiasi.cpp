@@ -29,5 +29,6 @@ public:
         cout << "Dokter \"" << nama << "\" ada\n";
     }
 
-   
+    ~dokter()
+    
 };
